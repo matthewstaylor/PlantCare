@@ -12,7 +12,7 @@
     "ag-grid-community": "^23.2.0",
     "bootstrap": "^4.5.0",
     "expo": "^37.0.12",
-    "jquery": "^1.9.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.16.1",
     "react": "~16.9.0",
     "react-bootstrap": "^1.0.1",
