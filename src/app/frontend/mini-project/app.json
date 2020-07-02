@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "PlantCare",
+    "slug": "PlantCare",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/splash.svg.png",
+    "splash": {
+      "image": "./assets/splash.svg.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.groupfive.plantcare",
+      "versionCode": 1
+    }
+  }
+}
